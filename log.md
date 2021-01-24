@@ -16,8 +16,10 @@
 
 **Today's Progress**:
     Created the react app that will be the dev environment for an avatar upload component.  It will allow the user to zoom, pan, and crop the image before uploading the resized image to an s3 bucket.
+
 **Thoughts:** 
     It is not a big strectch to wire up a database to store a username with each avatar for the example app.
+
 **Link to work:** 
     [Image Uploader GUI](https://github.com/b3aut1fu1mach1n3/image-upload-gui)
 
@@ -26,9 +28,23 @@
 
 **Today's Progress**:
     Worked on the avatar upload component some more. Added a slider to control zoom level.
+
 **Thoughts:** 
     I actually struggled with this for a while. I want to keep this as un-opinionated as possible so I am avoiding component libraries like material or fabric, so there is a bit more to figure out.  I am using a basic html `<input type="range">` element.
+
 **Link to work:** 
     [Image Uploader GUI](https://github.com/b3aut1fu1mach1n3/image-upload-gui)
+
+---
+### Day 4: January 24, 2021
+
+**Today's Progress**:
+    Took a detour from the avatar component.  Thought it would be cool to set up a bot to tweet each daily log for me whenever I push the daily entry up to github.  Made a couple endpoints, to read the repos commits and the contents of the log file.  Working on parsing the log.
+
+**Thoughts:** 
+    Once I get it working I would like to make it a serverless function on azure or aws or something.
+
+**Link to work:** 
+    [github-integration](https://github.com/b3aut1fu1mach1n3/github-integration)
 
 ---
