@@ -48,3 +48,13 @@
     [github-integration](https://github.com/b3aut1fu1mach1n3/github-integration)
 
 ---
+### Day 5: January 25, 2021
+
+**Today's Progress**:
+    So I got the bot up and working, albeit in a kind of crude form so far.  If everything went to plan, than this was tweeted out programatically to contain the day/hashtag and brief progress blurb from my daily log entry.
+**Thoughts:** 
+    There is much more work to be done actually, despite the fact that this is a very simple project.  I dont have any validation - particulary to ensure that the message is not longer than twitter's alloted 220 characters.  There are no try/catches or error handling for async operations either.  Oh yea, and I would prefer to ditch the Twit npm package since I only need to make a post.
+**Link to work:** 
+    [github-integration](https://github.com/b3aut1fu1mach1n3/github-integration)
+
+---
