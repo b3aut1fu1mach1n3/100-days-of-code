@@ -50,10 +50,25 @@
 ---
 ### Day 5: January 25, 2021
 
-**Today's Progress**:
+**Today's Progress**:    
     So I got the bot up and working, albeit in a kind of crude form so far.  If everything went to plan, than this was tweeted out programatically to contain the day/hashtag and brief progress blurb from my daily log entry.
+
 **Thoughts:** 
     There is much more work to be done actually, despite the fact that this is a very simple project.  I dont have any validation - particulary to ensure that the message is not longer than twitter's alloted 220 characters.  There are no try/catches or error handling for async operations either.  Oh yea, and I would prefer to ditch the Twit npm package since I only need to make a post.
+
+**Link to work:** 
+    [github-integration](https://github.com/b3aut1fu1mach1n3/github-integration)
+
+---
+
+### Day 6: January 26, 2021
+
+**Today's Progress**:
+    I cleaned up my twitter bot.  It now runs as a console app in the background (whenever I feel like running it) and pings github every 5min to pull down all the commits on this repo.  I have set it to look for the #100DaysOfCode hashtag in the commit message and compare it to the last recorded one (kept in a text file locally), if it is a new commit then the log entries are pulled down and parsed. The end result is tweeted out by the bot...which you are reading now.
+
+**Thoughts:** 
+    Pretty cool little node project.  The twitter bot aspect was dead simple using the Twit library.  I am ready to move on for now, but there is lots of fodder here for future enhancements: 1. remove Twit dependency, I only need the most minimal functionality from it, 2. deploy as a serverless function or github action, it is really just a toy in its current implementation since I have to keep it running locally or just start it when I am going to push to this repo.  It was worth the effort to not have to type the same thing twice and it was a fun mini project.
+
 **Link to work:** 
     [github-integration](https://github.com/b3aut1fu1mach1n3/github-integration)
 
