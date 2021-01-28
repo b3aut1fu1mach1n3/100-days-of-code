@@ -73,3 +73,16 @@
     [github-integration](https://github.com/b3aut1fu1mach1n3/github-integration)
 
 ---
+
+### Day 7: January 27, 2021
+
+**Today's Progress**:
+    Returned to the avatar editor react component. I made a reusable slider component and wired it up to the image zoom. 
+
+**Thoughts:** 
+    I am really happy with the slider component.  It isn't anything too special, but it is cool to skip the bootstrap/material/fabric/(insert component library here). It has actually inspired me a bit to start a library of extensible components and my own style system.  It would be alot, but I would keep things simple and leverage the great flex/grid api's in modern css.
+
+**Link to work:** 
+    [Image Uploader GUI](https://github.com/b3aut1fu1mach1n3/image-upload-gui)
+
+---
