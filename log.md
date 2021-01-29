@@ -86,3 +86,16 @@
     [Image Uploader GUI](https://github.com/b3aut1fu1mach1n3/image-upload-gui)
 
 ---
+
+### Day 8: January 28, 2021
+
+**Today's Progress**:
+    Well, you can't win 'em all. I continued on the avatar editor, but didn't make any progress that I could push. Specifically I am working on grabbing the image from the canvas on clicking save. I have been doing the project in typescript and all functional components thus far, which are not playing nice with react-avatar-editor. I have had to adapt my on solutions from the docs for the image canvas component, and refactor the main component to be class-based instead of functional/using hooks.
+
+**Thoughts:** 
+    Pretty much said it all in the progress section.  It wasn't a bad day or anything, I just didn't have that cathartic moment of solving a problem. It was quite a rough evening with my daughter as well - major tantrum that put the whole family on edge.  Alexis and I have been doing a 30-day yoga challenge since January 1st though, and that really helped settle me down.  Put in ,y hour and calling it a night.  I have been spending what might actually be way to much time in our bedroom at my makeshift home office.  8 or 830am to 6pm, then 730 or 8 to 11 or later (just lately).  That is about 13 hours a day in a crappy salvaged office chair in a messy room.  Yikes! night night, be back at it again tomorrow!
+
+**Link to work:** 
+    [Image Uploader GUI](https://github.com/b3aut1fu1mach1n3/image-upload-gui)
+
+---
