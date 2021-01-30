@@ -112,3 +112,16 @@
     [Deno Documentation](https://deno.land/manual@v1.7.1/getting_started/setup_your_environment) 
 
 ---
+
+### Day 10: January 30, 2021
+
+**Today's Progress**:
+    I have two courses in the backlog that I have been struggling to find the time to complete - Master Batsby and Advanced React, both by Wes Bos.  Got going on the Gatsby one today.
+
+**Thoughts:** 
+    The original rules state that tutorials don't count, but I am going to do them from time to time.  I simply will never find the time to be able to do both, and I really need some of the info from the course to work on the things that I want to do myself.
+
+**Link to work:** 
+    [Master Gatsby Course](https://mastergatsby.com/)
+
+---
