@@ -99,3 +99,16 @@
     [Image Uploader GUI](https://github.com/b3aut1fu1mach1n3/image-upload-gui)
 
 ---
+
+### Day 9: January 29, 2021
+
+**Today's Progress**:
+    Yesterday I listened to a SyntaxFM podcast about Deno, and it got me all fired up to give it a shot. Today I read documentation, set up my environment and did some hello-world stuff. Very interesting stuff.
+
+**Thoughts:** 
+    Really interested in learning Deno. It provides a runtime for TypeScript and Javascript out of the browser, but apparently browser aps too?!?!
+
+**Link to work:** 
+    [Deno Documentation](https://deno.land/manual@v1.7.1/getting_started/setup_your_environment) 
+
+---
