@@ -125,3 +125,16 @@
     [Master Gatsby Course](https://mastergatsby.com/)
 
 ---
+
+### Day 11: January 31, 2021
+
+**Today's Progress**:
+    Today I continued with the Gatsby course. I have made it through the basic tooling and setup. We have made a skeleton site with routing and a layout component that wraps each page. Dump pages in a pages folder, make a file called 'gatsby-browser' and add a component that will wrap every page rendered from the pages folder
+
+**Thoughts:** 
+    I am liking Gatsby so far. It appears to be very very very developer friendly, especially for a certain subset of sites - static or mostly static sites. I take that to mean sites that have very little or no dynamic content, like a landing page or portfolio, or in this case a pizza shop.  
+
+**Link to work:** 
+    [Master Gatsby Course](https://mastergatsby.com/)
+
+---
