@@ -138,3 +138,16 @@
     [Master Gatsby Course](https://mastergatsby.com/)
 
 ---
+
+### Day 12: February 1, 2021
+
+**Today's Progress**:
+    Continued on Gatsby course. Today we worked with Styled Components to style the nav and layout, and booted up the Sanity Headless CMS. So far I am impressed.
+
+**Thoughts:** 
+    Wow, I can see this stack being very efficient and lucrative for the right target audience. Sanity is pretty badass from what I can tell so far, but I have never worked with one before. I honestly hadn't given CMS much thought, but I see now that there is really no reason to roll-your-own at this point.
+
+**Link to work:** 
+    [Master Gatsby Course](https://mastergatsby.com/)
+
+---
