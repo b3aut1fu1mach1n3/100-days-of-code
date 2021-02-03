@@ -151,3 +151,16 @@
     [Master Gatsby Course](https://mastergatsby.com/)
 
 ---
+
+### Day 13: February 2, 2021
+
+**Today's Progress**:
+    COntinued on Gatsby course. Today we finished sketching out the Sanity CMS and customized it a bit more. Started the next module with an intro to GraphQL. 
+
+**Thoughts:** 
+    Very happy with the course so far. I am only a little-ways in, gives me a good feeling that the course will have a ton to offer.
+
+**Link to work:** 
+    [Master Gatsby Course](https://mastergatsby.com/)
+
+---
